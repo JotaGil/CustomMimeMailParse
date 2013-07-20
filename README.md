@@ -5,12 +5,12 @@ This is a customized Mime Mail parser Class using PHP's MailParse Extension.
 It is based on the original project php-mime-mail-parser, hosted on:
 http://code.google.com/p/php-mime-mail-parser/
 
-I've introduced some changes that solves some issues that I've found using it.
-Also, I've created and modified some functions that I found useful.
-Removed funtions are why I haven't found necessary due changes made
-(f.e. inLine functions).
+I've introduced some changes that solve some issues that I've found using it.
+Also, I've created and modified some functions that are useful to me.
+Removed funtions are why I haven't found necessary due changes made (f.e. inLine functions).
  
 Avoiding any incompatibility, this is published under same licenses as the original project is.
+
 
 ******************************************************************************
 
