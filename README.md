@@ -5,8 +5,8 @@ This is a customized Mime Mail parser Class using PHP's MailParse Extension.
 It is based on the original project php-mime-mail-parser, hosted on:
 http://code.google.com/p/php-mime-mail-parser/
 
-I've introduced some changes that solve some issues that I've found using it.
-Also, I've created and modified some functions that are useful to me.
+I've introduced changes that solve some issues I've found using it.
+Also, I've created and modified some functions that seems useful.
 Removed funtions are why I haven't found necessary due changes made (f.e. inLine functions).
  
 Avoiding any incompatibility, this is published under same licenses as the original project is.
@@ -14,7 +14,8 @@ Avoiding any incompatibility, this is published under same licenses as the origi
 
 ******************************************************************************
 
-Really special thanks to the original author and people who has maintained and developed the php-mime-mail-parser project. I've found it very useful, especially without an extensive documentation of PHP's MailParse Extension.
+Really special thanks to the original author and people who has maintained, developed, and any case contributed to php-mime-mail-parser project. 
+I've found it very useful, especially without an extensive documentation of PHP's MailParse Extension.
 
 ******************************************************************************
 
