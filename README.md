@@ -36,7 +36,7 @@ If you want to manually handle attachments:
     $attachments = FALSE;
     $imagesFileName = FALSE;
     $images = FALSE;
-    $save_dir = '';/*
+    $save_dir = '/path/to/my/save/directory';
     
     $path="/path/to/my/mail/mail.local";    
 
@@ -108,7 +108,7 @@ If you don't want to manually handle attachments:
     $attachments = FALSE;
     $imagesFileName = FALSE;
     $images = FALSE;
-    $save_dir = '';/*
+    $save_dir = '/path/to/my/save/directory';
     
     $path="/path/to/my/mail/mail.local";
     
